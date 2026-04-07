@@ -53,3 +53,7 @@ Once the application is running, you can:
 - **Hover over** the artworks in the "Now On View" section to interact with the smooth zoom-in effects.
 - **Test the Responsive Menu**: Resize the browser to a mobile viewport or click the hamburger menu icon to open the sliding navigation menu (and the close button to dismiss it).
 - **Fill out the Contact Form**: Navigate to the bottom and see the form layout (with an inline quick reset upon submission via `onsubmit`).
+
+---
+
+**Author:** Dmytro Halieba
